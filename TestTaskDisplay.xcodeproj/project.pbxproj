@@ -13,6 +13,7 @@
 		24BDF6F3237E9B120071027B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24BDF6F1237E9B120071027B /* Main.storyboard */; };
 		24BDF6F5237E9B130071027B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24BDF6F4237E9B130071027B /* Assets.xcassets */; };
 		24BDF6F8237E9B130071027B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24BDF6F6237E9B130071027B /* LaunchScreen.storyboard */; };
+		24BDF701237E9DAC0071027B /* 12134.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24BDF700237E9DAC0071027B /* 12134.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		24BDF6F4237E9B130071027B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24BDF6F7237E9B130071027B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24BDF6F9237E9B130071027B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24BDF700237E9DAC0071027B /* 12134.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = 12134.ttf; path = ../../../../Downloads/12134.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				24BDF6F4237E9B130071027B /* Assets.xcassets */,
 				24BDF6F6237E9B130071027B /* LaunchScreen.storyboard */,
 				24BDF6F9237E9B130071027B /* Info.plist */,
+				24BDF700237E9DAC0071027B /* 12134.ttf */,
 			);
 			path = TestTaskDisplay;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				24BDF701237E9DAC0071027B /* 12134.ttf in Resources */,
 				24BDF6F8237E9B130071027B /* LaunchScreen.storyboard in Resources */,
 				24BDF6F5237E9B130071027B /* Assets.xcassets in Resources */,
 				24BDF6F3237E9B120071027B /* Main.storyboard in Resources */,
